@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Judgment")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b01c7eb5af3f92ea9d6052995199d438b7080da1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72eb089fa256ecbb044cf874948b4395b41dda74")]
 [assembly: System.Reflection.AssemblyProductAttribute("Judgment")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Judgment")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -297,5 +297,10 @@ namespace Judgment
         /// 檔案路徑不存在
         /// </summary>
         FDE_001,
+
+        /// <summary>
+        /// 指令不存在
+        /// </summary>
+        CMD_001,
     }
 }

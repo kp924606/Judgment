@@ -33,3 +33,4 @@ D:\蔡承廷\Development\My\Judgment\obj\Debug\net8.0\Judgment.dll
 D:\蔡承廷\Development\My\Judgment\obj\Debug\net8.0\refint\Judgment.dll
 D:\蔡承廷\Development\My\Judgment\obj\Debug\net8.0\Judgment.pdb
 D:\蔡承廷\Development\My\Judgment\obj\Debug\net8.0\ref\Judgment.dll
+D:\蔡承廷\Development\My\Judgment\obj\Debug\net8.0\Judgment.sourcelink.json
